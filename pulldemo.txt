@@ -1,0 +1,3 @@
+This file is created for pull demo
+Differnce between fetch and pull is:
+fetch requires explicit merge whereas pull has implicit mrge
